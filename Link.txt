@@ -1,1 +1,1 @@
-Link: https://github.com/ytplayer/YTPlayer-Youtube-Video-Downloader/blob/main/YTPlayer.exe
+Link: https://github.com/ytplayer/YTPlayer-Youtube-Video-Downloader/archive/refs/heads/main.zip
